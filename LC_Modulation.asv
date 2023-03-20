@@ -1,0 +1,11 @@
+function modulated_signal = LC_Modulation(message_signal,k_a, A_c, f_c)
+%UNTITLED2 Summary of this function goes here
+%   Detailed explanation goes here
+modulated_signal = zeros(size(message_signal));
+
+for i = 1:size(message_signal,2)
+    modulated_signal
+
+
+
+end
